@@ -1,2 +1,2 @@
-# sdzli10
+# linktree sosmed.github.io
 linktree sosmed
